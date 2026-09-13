@@ -44,6 +44,7 @@
 | # | 中文 | English |
 |---|---|---|
 | 13 | [地球作为地堡——高等级文明控制下的破局](papers/013_zh_地球作为地堡.md) | [Earth as a Silo — Breaking Out Under a Higher Civilization's Control](papers/013_en_Earth_as_a_Silo.md) |
+| 14 | [控制者的战术手册——信息干扰、定点破坏与"修仙即清洁"](papers/014_zh_控制者的战术手册.md) | [The Controller's Playbook — Information Interference, Targeted Sabotage, and "Cultivation as Cleaning"](papers/014_en_The_Controllers_Playbook.md) |
 
 ---
 
