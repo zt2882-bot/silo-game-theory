@@ -6,6 +6,12 @@
 
 ---
 
+## 总纲 · Manifesto
+
+| # | 中文 | English |
+|---|---|---|
+| 0 | [论结构化思维与知识协作对封闭系统的必然突破](papers/000_zh_结构化思维与知识协作.md) | [On Structured Thinking and Knowledge Collaboration as the Inevitable Breakthrough of Closed Systems](papers/000_en_Structured_Thinking_and_Knowledge_Collaboration.md) |
+
 ## 第一卷 · 内部权力与信息控制 · Vol. I: Internal Power & Information Control
 
 | # | 中文 | English |
