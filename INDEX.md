@@ -39,6 +39,12 @@
 | 11 | [地堡间通信的信号博弈](papers/011_zh_地堡间通信的信号博弈.md) | [Inter-Silo Communication as a Signaling Game](papers/011_en_InterSilo_Communication_as_Signaling_Game.md) |
 | 12 | [突破的演化博弈与迁移](papers/012_zh_突破的演化博弈与迁移.md) | [Breakout as an Evolutionary Game and Migration](papers/012_en_Breakout_as_Evolutionary_Game.md) |
 
+## 终章 · Finale
+
+| # | 中文 | English |
+|---|---|---|
+| 13 | [地球作为地堡——高等级文明控制下的破局](papers/013_zh_地球作为地堡.md) | [Earth as a Silo — Breaking Out Under a Higher Civilization's Control](papers/013_en_Earth_as_a_Silo.md) |
+
 ---
 
 ## 一句话总结 · One-Line Summary
