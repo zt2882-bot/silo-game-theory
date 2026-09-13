@@ -6,15 +6,27 @@
 
 ---
 
+## 假如地球本身，就是一座地堡
+
+宇宙有约 138 亿年历史、数千亿个星系，理应挤满文明。可我们看到的，是"大寂静"。
+
+主流答案说："我们没看到，所以它们不存在。"
+
+但请想一想——**这恰恰是地堡居民的思维。** 地堡居民说"外面没人"，是因为管理层不让他们看到。人类说"我们是孤独的"，可能是同样的原因。
+
+> **费米悖论的"大寂静"，可能不是"没有文明"的证据，而是"有机制在制造寂静"的证据。** 正如地堡居民把"清洁者的死"当作"外面有毒"，人类把"宇宙的寂静"当作"我们孤独"——两者都是被制造的信号。
+
+而如果地球真是一座地堡，控制者清除"可能破局的人"的最高明手段，不是杀死他，而是给他一个"更高维的出口"，让他主动走出去——**修仙、飞升、悟道、永生，那就是去做清洁。**
+
+这正是本系列走到终章，试图拆解的东西。
+
+---
+
 ## 这是什么 · What This Is
 
-一组独立的博弈论论文。它们共享同一个底层视角——**封闭系统（信息、权力与突破）的对抗结构**——尽管每篇论文分析的是剧情的不同切面。
+一组独立的博弈论论文。它们共享同一个底层视角——**封闭系统（信息、权力与突破）的对抗结构**——从一部美剧的地堡，一路推到"地球作为地堡"的宇宙尺度。
 
-A collection of independent papers sharing a single underlying view — **the adversarial structure of closed systems (information, power, breakout)** — though each paper analyzes a different facet of the show.
-
-《末日地堡》表面上讲的是"人类躲在地下"，本质上是一个**被精心设计的博弈沙盘**：管理层用信息封锁、信号操控、自动惩罚来维持一个封闭系统；居民用探索、协作、知识积累来突破它。
-
-*Silo* is, on the surface, about "humanity hiding underground." At bottom it is a **deliberately engineered game-theoretic sandbox**: the administration sustains a closed system through information blockade, signal manipulation, and automated punishment; the residents break it through exploration, collaboration, and knowledge accumulation.
+A collection of independent papers sharing a single underlying view — **the adversarial structure of closed systems (information, power, breakout)** — from a show's underground silo all the way to "Earth as a silo" at cosmic scale.
 
 ## 核心视角 · The Core View
 
@@ -22,26 +34,13 @@ A collection of independent papers sharing a single underlying view — **the ad
 
 In one sentence: **the defender must be right everywhere, forever; the breaker needs to be right only once.**
 
-这是所有封闭系统的共同宿命，也是本系列论文反复回到的那条主线。
-
-This is the shared fate of every closed system, and the thread to which every paper in this series returns.
+而让突破变得不危险的，不是勇气，是**知识、协作、通信、实验**——这四样人类最古老、也最不可战胜的东西。
 
 ## 论文索引 · Index
 
-| # | 论文 | Paper |
-|---|---|---|
-| 1 | 清洁仪式作为信号博弈 | The Cleaning Ceremony as a Signaling Game |
-| 2 | 信息封锁的重复博弈与耗散结构 | Information Blockade as a Repeated Game with Dissipative Structure |
-| 3 | 失忆药物与记忆重置的马尔可夫控制 | Memory Erasure and Markovian State Control |
-| 4 | 司法部、IT部与机械部的三派系联盟博弈 | Tri-Faction Coalition: Judicial, IT, and Mechanical |
-| 5 | 叛乱的协调博弈与阈值模型 | Rebellion as a Coordination Game and Threshold Model |
-| 6 | 知识协作作为公共品博弈 | Knowledge Collaboration as a Public Goods Game |
-| 7 | 生育许可与人口控制的生物政治博弈 | Fertility Licensing and Biopolitical Control |
-| 8 | 外部环境作为自然状态的贝叶斯实验博弈 | The External Environment as a Bayesian Experimentation Game |
-| 9 | 五十个筒仓的囚徒困境与生存博弈 | Fifty Silos: Prisoner's Dilemma and Survival |
-| 10 | 筒仓一号的机制设计与自动惩罚 | Silo 1: Mechanism Design and Automated Punishment |
-| 11 | 地堡间通信的信号博弈 | Inter-Silo Communication as a Signaling Game |
-| 12 | 突破的演化博弈与迁移 | Breakout as an Evolutionary Game and Migration |
+全部论文见 [INDEX.md](INDEX.md)——含总纲（带定理证明）、12 篇博弈论分论、以及两篇终章（地球作为地堡 / 控制者的战术手册），中英对照。
+
+All papers are listed in [INDEX.md](INDEX.md) — including the manifesto (with theorem proofs), 12 game-theoretic papers, and two finales (Earth as a Silo / The Controller's Playbook), bilingual CN/EN.
 
 ## 一个提醒 · A Note
 
